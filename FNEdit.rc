@@ -1,0 +1,21 @@
+1 VERSIONINFO
+FILEVERSION 1,0,0,1
+PRODUCTVERSION 1,0,0,1
+FILEOS 4
+FILETYPE 2
+{
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "000004E4"
+  {
+   VALUE "FileVersion", "1.0.0.1\0"
+   VALUE "FileDescription", "Filename editor plugin for FAR Manager\0"
+   VALUE "InternalName", "FNEdit\0"
+   VALUE "LegalCopyright", "Copyright © 2007 Khaliullin Ruslan\0"
+  }
+ }
+ BLOCK "VarFileInfo"
+ {
+   VALUE "Translation", 0, 0x4e4
+ }
+}

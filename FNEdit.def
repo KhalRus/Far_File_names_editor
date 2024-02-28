@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+GetPluginInfo
+OpenPlugin
+SetStartupInfo
+Configure
